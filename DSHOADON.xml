@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <!--khach hang 1-->
+    <KHCN>
+        <MaKhachHang>423351</MaKhachHang>
+        <TenKhachHang>Lương Hữu Giang</TenKhachHang>
+        <SoLuong>4</SoLuong>
+        <GIA_BAN>5690000</GIA_BAN>
+        <ThanhTien>24180800</ThanhTien>
+        <KhoangCach>15</KhoangCach>
+        <!--15km-->
+    </KHCN>
+    
+    <!--khach hang 2-->
+    <KHCT>
+        <MaKhachHang>423352</MaKhachHang>
+        <TenKhachHang>Công ty TNHH Thiên Phú</TenKhachHang>
+        <SoLuong>20</SoLuong>
+        <GIA_BAN>5690000</GIA_BAN>
+        <ThanhTien>117090000</ThanhTien>
+        <SoNhanVien>2000</SoNhanVien>
+        <!--2000 nhân viên-->
+    </KHCT>
+    
+    
+    <!--khach hang 3-->
+    <DLC1>
+        <MaKhachHang>423353</MaKhachHang>
+        <TenKhachHang>Đại lý Phân Phối Hoài Linh</TenKhachHang>
+        <SoLuong>13</SoLuong>
+        <GIA_BAN>5690000</GIA_BAN>
+        <ThanhTien>56217200</ThanhTien>
+        <HopTac>4</HopTac>
+        <!--4 năm hợp tac-->
+    </DLC1>
+    
+    <!--khach hang 4-->
+    <KHCN>
+        <MaKhachHang>423354</MaKhachHang>
+        <TenKhachHang>Huỳnh Tấn Trung</TenKhachHang>
+        <SoLuong>2</SoLuong>
+        
+        <GIA_BAN>5690000</GIA_BAN>
+        <ThanhTien>12270400</ThanhTien>
+        <KhoangCach>8</KhoangCach>
+        <!--8km-->
+    </KHCN>
+    
+    <!--khach hang 5-->
+    <KHCT>
+        <MaKhachHang>423355</MaKhachHang>
+        <TenKhachHang>Công Ty Phát Triển vốn đầu tư Thịnh Hưng</TenKhachHang>
+        <SoLuong>25</SoLuong>
+        <GIA_BAN>5690000</GIA_BAN>
+        <ThanhTien>153475000</ThanhTien>
+        <SoNhanVien>100</SoNhanVien>
+        <!--100 nhân viên-->
+    </KHCT>
+    <!--khach hang 6-->
+    <DLC1>
+        <MaKhachHang>423356</MaKhachHang>
+        <TenKhachHang>Đại lý Phân Phối Hoài Linh</TenKhachHang>
+        <SoLuong>18</SoLuong>
+        <GIA_BAN>5690000</GIA_BAN>
+        <ThanhTien>110955000</ThanhTien>
+        <HopTac>3</HopTac>
+        <!--4 năm hợp tac-->
+    </DLC1>
+    
+</root>
